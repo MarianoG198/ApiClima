@@ -1,0 +1,10 @@
+# Ignorar el archivo de configuración con mis llaves secretas
+.env
+
+# Ignorar la carpeta del entorno virtual de Python
+venv/
+env/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
